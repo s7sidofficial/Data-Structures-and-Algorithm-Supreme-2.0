@@ -1,3 +1,3 @@
 # Data-Structures-and-Algorithm-Supreme-2.0
 
-➡️ DSA Notes in C++ Language.
+➡️ Data Structure Notes in **C++ Language**.
